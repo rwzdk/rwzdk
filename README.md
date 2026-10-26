@@ -17,6 +17,10 @@
 **AI** Vercel AI SDK · Function Calling · RAG 全管线 · Embeddings · 多智能体编排
 **工程化** Vitest · GitHub Actions CI · 检索质量评估（hit@k / MRR）· OpenNext
 
+## 📝 最新博文
+
+- [中文 RAG 检索不想只靠向量：手写 BM25 + RRF 混合检索，用 hit@3 / MRR 证明它有效](https://github.com/rwzdk/blog/blob/main/articles/2026-10-26-rag-hybrid-retrieval.md)（[博客首页](https://github.com/rwzdk/blog)）
+
 ## 📌 正在做
 
 - [ ] 向 Langfuse / Novu 提交代码 PR 并合并
